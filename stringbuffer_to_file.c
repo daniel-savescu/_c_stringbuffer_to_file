@@ -15,7 +15,7 @@ void main(){
         exit(EXIT_FAILURE);
     }
     
-    rintf("Enter contents to store in file : \n");
+    printf("Enter contents to store in file : \n");
     fgets(buffer, BUFFER_SIZE, stdin);
 
     fputs(buffer, pointerToFile);
