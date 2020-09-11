@@ -1,1 +1,1 @@
-# _stringbuffer_to_file
+C program - storing string buffer into a file
