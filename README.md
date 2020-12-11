@@ -1,1 +1,1 @@
-C program - storing string buffer into a file
+C program - storing string buffer into a file.
