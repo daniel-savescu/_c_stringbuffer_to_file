@@ -1,5 +1,3 @@
-/* StringBuffer To File */
-
 #include <stdio.h>
 #include <stdlib.h>
 
